@@ -1,0 +1,5 @@
+.ipynb*
+*.sqlite3
+.vscode*
+.editorconfig
+
